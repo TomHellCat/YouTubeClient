@@ -127,7 +127,7 @@ class YouTubeClient(object):
         self.keyword = keyword
         api_service_name = "youtube"
         api_version = "v3"
-        self.DEVELOPER_KEY = "AIzaSyAfKIAsC_Tu8KMQCrtmwSiyUnF3g4QgyUk"
+        self.DEVELOPER_KEY = "YOUR DEVELOPER KEY"
 
         youtube = googleapiclient.discovery.build(
             api_service_name, api_version, developerKey = self.DEVELOPER_KEY)
