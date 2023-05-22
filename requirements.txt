@@ -10,7 +10,7 @@ google_api_python_client == 1.10.0
 matplotlib == 3.3.0
 
 # Untitled Folder 2/YouTubeClient.py: 3
-requests == 2.22.0
+requests == 2.31.0
 
 # Untitled Folder 2/YouTubeClient.py: 8
 textblob == 0.15.3
